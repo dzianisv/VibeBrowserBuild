@@ -1,7 +1,7 @@
 From 7e6dbd5fc923c87df2614b04cb8b25bf46fd8555 Mon Sep 17 00:00:00 2001
 From: Den <2119348+dzianisv@users.noreply.github.com>
 Date: Wed, 23 Jul 2025 12:51:15 +0300
-Subject: [PATCH 23/24] =?UTF-8?q?1.=20Build=20System=20Fix=20=20=20=20=20-?=
+Subject: [PATCH 23/34] =?UTF-8?q?1.=20Build=20System=20Fix=20=20=20=20=20-?=
  =?UTF-8?q?=20Updated=20build=20target=20reference=20from=20vibe:build=20t?=
  =?UTF-8?q?o=20proper=20GN=20target=20=20=20=20=20-=20Build=20now=20works?=
  =?UTF-8?q?=20correctly=20with=20ninja=20-C=20out/Debug=20chrome/browser/r?=

@@ -1,7 +1,7 @@
 From e90253c4d5fba5562ab150ef8855cb73aecddae1 Mon Sep 17 00:00:00 2001
 From: Den <2119348+dzianisv@users.noreply.github.com>
 Date: Wed, 23 Jul 2025 12:27:00 +0300
-Subject: [PATCH 22/24] =?UTF-8?q?Real-Time=20Tool=20Updates=20&=20AI=20Rea?=
+Subject: [PATCH 22/34] =?UTF-8?q?Real-Time=20Tool=20Updates=20&=20AI=20Rea?=
  =?UTF-8?q?soning=20Display=20(2025-01-23)**=20=20=20=20**Tasks=20Complete?=
  =?UTF-8?q?d:**=20=20=20=20-=20=E2=9C=85=20Modified=20ai=5Fagent.js:=20Add?=
  =?UTF-8?q?ed=20#sendToolUpdate()=20and=20#sendReasoningUpdate()=20methods?=
